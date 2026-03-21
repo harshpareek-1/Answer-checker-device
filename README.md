@@ -27,11 +27,8 @@ This system allows users to:
 1. Upload an image of the answer key
 2. Convert it into structured answers using AI
 3. Send answers to an ESP32 device
-4. Get instant feedback while solving questions
-
----
-
-## ⚙️ System Architecture
+4. Get instant feedback while solving
+   
 ---
 
 ## 🔩 Hardware Components
